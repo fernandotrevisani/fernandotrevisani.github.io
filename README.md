@@ -1,2 +1,2 @@
-# https://fernandotrevisani.github.io/master/index.html
+# https://fernandotrevisani.github.io
 Site pessoal
