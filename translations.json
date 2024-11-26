@@ -1,0 +1,21 @@
+{
+    "en": {
+        "home_button": "Home",
+        "about_button": "About",
+        "skills_button": "Skill",
+        "about_sesction": "About",
+        "about_title": "SAP BI | Data Engineer."
+    },
+    "pt": {
+        "home_button": "Home",
+        "about_button": "Sobre",
+        "about_sesction": "Sobre",
+        "about_title": "SAP BI | Engenheiro de Dados."
+    },
+    "es": {
+        "home_button": "Home",
+        "about_button": "Sobre",
+        "about_sesction": "Sobre",
+        "about_title": "SAP BI | Engenhero di Datos."
+    }
+}
