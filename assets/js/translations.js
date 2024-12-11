@@ -3,7 +3,7 @@ let translations = {};
 // Função para carregar traduções do arquivo JSON
 async function loadTranslations() {
   try {
-    const response = await fetch('./assets/json/translations.json'); // Verifique o caminho do arquivo
+    const response = await fetch('translations.json'); // Verifique o caminho do arquivo
     if (!response.ok) throw new Error(`Erro ao carregar translations.json: ${response.status}`);
     translations = await response.json();
 
