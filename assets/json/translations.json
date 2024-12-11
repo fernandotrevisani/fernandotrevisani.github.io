@@ -1,0 +1,27 @@
+{
+    "en": {
+        "myPortfolio": "My Portfolio",
+        "home_button": "Home",
+        "about_button": "About",
+        "skills_button": "Skill",
+        "about_sesction": "About",
+        "about_title": "SAP BI | Data Engineer.",
+        "about_resume": "+16 years working with SAP BW / BO / HANA project development, integrating project, implementation, custom development and maintenance teams in big companies. Always looking to be in touch with what the market is practising as Open Source tools with Data Engineering (modern data stack)."
+    },
+    "pt": {
+        "myPortfolio": "Meu Portfolio",
+        "home_button": "Home",
+        "about_button": "Sobre",
+        "about_sesction": "Sobre",
+        "about_title": "SAP BI | Ingeniero de datos.",
+        "about_resume": "+16 anos trabalhando com desenvolvimento de projetos SAP BW/BO/HANA, integrando equipes de projeto, implementação, desenvolvimento customizado e manutenção em grandes empresas. Sempre buscando estar em contato com o que o mercado está praticando como ferramentas Open Source com Data Engineering (modern data stack)."
+    },
+    "es": {
+        "myPortfolio": "Mi Portfolio",
+        "home_button": "Home",
+        "about_button": "Sobre",
+        "about_sesction": "Sobre",
+        "about_title": "SAP BI | Engenhero di Datos.",
+        "about_resume": "+16 anos trabalhando com desenvolvimento de projetos SAP BW/BO/HANA, integrando equipes de projeto, implementação, desenvolvimento customizado e manutenção em grandes empresas. Sempre buscando estar em contato com o que o mercado está praticando como ferramentas Open Source com Data Engineering (modern data stack)."
+    }
+}
